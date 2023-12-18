@@ -1,3 +1,3 @@
-# tugas2
+# Mobile Programming
 
-A new Flutter project.
+Tugas 2 : Membuat Aplikasi Timer
